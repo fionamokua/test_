@@ -60,3 +60,9 @@ a(180,0)
 #fifth circle
 body_turtle.pendown()
 body_turtle.circle(40)
+#repositioning turtle
+body_turtle.penup()
+a(45,35)
+a(270,50)
+a(270,0)
+a(180,0)
